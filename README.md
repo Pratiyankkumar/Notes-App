@@ -20,7 +20,7 @@ To get started with the Notes App, follow these steps:
 
 2. **Navigate to the project directory:**
     ```bash
-    cd Notes-App
+    cd Notes-App/notes-app
 
 3. **Install the dependencies**
     ```bash
